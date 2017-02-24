@@ -1,11 +1,11 @@
 baseurl = "/"
-languageCode = "en-us"
-title = "StatusKit"
+   languageCode = "en-us"
+  title = "StatusKit"
 
-[permalinks]
+  [permalinks]
   incidents = "/incidents/:year/:month/:day/:slug/"
 
-[params]
+[ params]
   defaultLogo = "https://www.netlify.com/img/press/logos/logomark.svg"
   faviconsPath = "/images/favicon/"
 
